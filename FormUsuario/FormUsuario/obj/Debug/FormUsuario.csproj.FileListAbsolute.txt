@@ -1,0 +1,10 @@
+C:\Users\Cesar\Desktop\Proyecto Web\FormUsuario\FormUsuario\bin\Debug\FormUsuario.exe.config
+C:\Users\Cesar\Desktop\Proyecto Web\FormUsuario\FormUsuario\bin\Debug\FormUsuario.exe
+C:\Users\Cesar\Desktop\Proyecto Web\FormUsuario\FormUsuario\bin\Debug\FormUsuario.pdb
+C:\Users\Cesar\Desktop\Proyecto Web\FormUsuario\FormUsuario\obj\Debug\FormUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\Proyecto Web\FormUsuario\FormUsuario\obj\Debug\FormUsuario.Form1.resources
+C:\Users\Cesar\Desktop\Proyecto Web\FormUsuario\FormUsuario\obj\Debug\FormUsuario.Properties.Resources.resources
+C:\Users\Cesar\Desktop\Proyecto Web\FormUsuario\FormUsuario\obj\Debug\FormUsuario.csproj.GenerateResource.Cache
+C:\Users\Cesar\Desktop\Proyecto Web\FormUsuario\FormUsuario\obj\Debug\FormUsuario.exe
+C:\Users\Cesar\Desktop\Proyecto Web\FormUsuario\FormUsuario\obj\Debug\FormUsuario.pdb
+C:\Users\Cesar\Desktop\Proyecto Web\FormUsuario\FormUsuario\obj\Debug\FormUsuario.Menu.resources
